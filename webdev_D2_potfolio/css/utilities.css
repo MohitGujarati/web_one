@@ -1,0 +1,42 @@
+.flex{
+    display: flex;
+}
+
+.items-center{
+
+    align-items: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.btn-primary{
+  
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: start;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 15px 30px;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    border: none;
+}
+
+.section_heading{
+
+}
+.background_Dark{
+    background-color: var(--dark);
+    background: var(--dark);
+}
+
+.bgtext{
+    color: whitesmoke;
+}
+
+.delay{
+    transition: 5s;
+}
